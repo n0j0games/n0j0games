@@ -14,6 +14,6 @@
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
+## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0j0games&show_icons=true&count_private=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0j0games&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
