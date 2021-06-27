@@ -1,4 +1,5 @@
 # Hello There
+<img alt="Twitter" src="https://img.shields.io/badge/_n0j0-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 
 ## Languages, Frameworks, Tools, IDEs
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
