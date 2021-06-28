@@ -1,8 +1,6 @@
 <h1 align="center">Hello There!</h1>
 <h3 align="center">Lorem Ipsum</h3>
 
-[<img align="center" alt="Twitter" src="https://img.shields.io/badge/Follow%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_n0j0)
-
 * I like to code various things such as indie games in Unity
 * I'm currently studying computer science
 
@@ -22,3 +20,6 @@
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0j0games&show_icons=true&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0j0games&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+[<img alt="Twitter" src="https://img.shields.io/badge/Follow%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_n0j0)
