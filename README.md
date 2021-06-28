@@ -1,4 +1,4 @@
-# Hello There
+<h1 align="center">Hello There</h1>
 [<img alt="Twitter" src="https://img.shields.io/badge/Follow%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_n0j0)
 
 * I like to code various things such as indie games in Unity
