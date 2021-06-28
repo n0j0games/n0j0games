@@ -22,8 +22,10 @@
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
 ## Stats
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0j0games&show_icons=true&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0j0games&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+  
 ---
 [<img alt="Twitter" src="https://img.shields.io/badge/Follow%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_n0j0)
