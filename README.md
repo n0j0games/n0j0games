@@ -24,6 +24,16 @@
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0j0games&show_icons=true&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0j0games&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=n0j0games&count_private=true&show_icons=true&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=My%20Github%20Stats&line_height=27&" alt="n0j0's Stats" />
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0j0games&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=Languages%20in%20public%20Repositories&layout=compact&langs_count=10&card_width=450&)" alt="n0j0's Languages"/>
+  </a>
+</div>
   
 ---
 [<img alt="Twitter" src="https://img.shields.io/badge/Follow%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/_n0j0)
