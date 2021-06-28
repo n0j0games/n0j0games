@@ -1,5 +1,5 @@
 <h1 align="center">Hello There!</h1>
-<h3 align="center">Welcome to my GitHub page</h3>
+<h3 align="center">welcome to my GitHub page</h3>
 
 ---
 
