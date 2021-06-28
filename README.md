@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=n0j0games&show_icons=true&count_private=true&title_color=F77622&icon_color=F77622&text_color=DDD&bg_color=transparent&border_radius=7&hide_border=true&custom_title=My%20Stats&line_height=27&" alt="n0j0's Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=n0j0games&show_icons=true&count_private=true&title_color=F77622&icon_color=F77622&text_color=DDD&bg_color=0C1017&border_radius=7&hide_border=true&custom_title=My%20Stats&line_height=27&" alt="n0j0's Stats" />
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
