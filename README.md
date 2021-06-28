@@ -27,11 +27,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=n0j0games&count_private=true&show_icons=true&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=My%20Github%20Stats&line_height=27&" alt="n0j0's Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=n0j0games&count_private=true&show_icons=true&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=My%20Stats&line_height=27&" alt="n0j0's Stats" />
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0j0games&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=Languages%20in%20public%20Repositories&layout=compact&langs_count=10&card_width=450&)" alt="n0j0's Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0j0games&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=Top%20Languages&layout=compact&langs_count=10&card_width=450&)" alt="n0j0's Languages"/>
   </a>
 </div>
   
