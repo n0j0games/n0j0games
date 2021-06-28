@@ -1,6 +1,8 @@
 <h1 align="center">Hello There!</h1>
 <h3 align="center">Some interesting subtitle</h3>
 
+---
+
 * 💾 I like to code various things such as indie games in Unity
 * 🌱 I'm currently studying computer science
 
