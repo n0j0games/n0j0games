@@ -1,7 +1,7 @@
 <h1 align="center">Hello There!</h1>
 
 * 👀 I'm Noah Schütte, 22y/o from Germany
-* 💾 I like to code various things, mainly indie games with C# in Unity & web-applications with JS
+* 💾 I like to code various things, mainly web applications with js, small games in Unity with C# etc.
 * 📚 I'm currently studying computer science
 
 ---
