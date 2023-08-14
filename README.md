@@ -1,7 +1,7 @@
 <h1 align="center">Hello There!</h1>
 
 * 👀 I'm Noah, 22y/o from Germany
-* 💾 Working mainly with JavaScript & NodeJS and Python
+* 💾 Working mainly with JavaScript and Python
 * 📚 I'm currently studying computer science
 
 ---
